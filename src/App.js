@@ -3,6 +3,7 @@ import ActionAreaCard from "./components/ActionAreaCard/ActionAreaCard";
 import Motor from "./components/Motor/Motor";
 import Grid from '@mui/material/Grid';
 import data from './data.js'
+
 import './App.js'
 function App() {
   return (

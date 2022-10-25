@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  font-size: 120px;
+  font-size: 4rem;
   position: absolute;
   left: 62%;
   top: 28px;
@@ -19,7 +19,7 @@ h1 {
 }
 h2 {
   position: absolute;
-  font-size: 34px;
+  font-size: 2rem;
   left: 28%;
   top: 38rem;
   color: rgb(255, 0, 0);

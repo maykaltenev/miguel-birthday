@@ -87,6 +87,11 @@ const data = [
         name: "Maykal",
         message: "Happy Birthday Miguel! Wish you all the best! Enjoy the your ride in coding and in life. "
     },
+    {
+        name: "Naglaa",
+        message: "Happy birthday  Miguel🎉🎁. "
+    },
+
 
 
 
